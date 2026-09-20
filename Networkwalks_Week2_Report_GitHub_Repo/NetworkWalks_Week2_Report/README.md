@@ -4,7 +4,7 @@
 
 **Prepared By:** Muhammad Abdullahi Muhammad  
 **Instructor:** Waqas Karim  
-**Batch:** Cybersecurity Professional — B082  
+**Batch:** Cybersecurity Professional — B083 
 **Organization:** Networkwalks Academy  
 **Week:** Week 02
 
@@ -307,6 +307,6 @@ The folders can be used to store screenshots, command outputs, notes, and eviden
 ## Author
 
 **Muhammad Abdullahi Muhammad**  
-Cybersecurity Professional — B082  
+Cybersecurity Professional — B083  
 Networkwalks Academy  
 Week 02 — Reconnaissance & Footprinting Techniques
